@@ -1,4 +1,4 @@
-# ✈️ Airport Clients for Beginners
+# ✈️ 机场客户端汇总（新手向） 
 
 为新手整理的 **机场客户端汇总仓库**，覆盖 **Windows / macOS / iOS / Android / Linux / 路由器**。  
 不用东找西找，不用反复试错，直接选「能用、好用、不折腾」的客户端。
