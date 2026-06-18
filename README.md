@@ -18,12 +18,18 @@
 
 ## 📚 目录
 
-* [Windows 客户端](#windows-客户端)
-* [macOS 客户端](#macos-客户端)
-* [Linux 客户端](#linux-客户端)
-* [Android 客户端](#android-客户端)
-* [iOS 客户端](#ios-客户端)
-* [路由器 / 通用内核](#路由器--通用内核)
+- [✈️ 机场客户端汇总（新手向）](#️-机场客户端汇总新手向)
+  - [📌 这个仓库适合谁？](#-这个仓库适合谁)
+  - [📚 目录](#-目录)
+  - [📌 使用说明](#-使用说明)
+  - [🪟 Windows 客户端](#-windows-客户端)
+  - [🍎 macOS 客户端](#-macos-客户端)
+  - [🐧 Linux 客户端](#-linux-客户端)
+  - [📱 Android 客户端](#-android-客户端)
+  - [📱 iOS 客户端](#-ios-客户端)
+  - [🌐 路由器 / 软路由](#-路由器--软路由)
+  - [🧠 使用建议（新手必看）](#-使用建议新手必看)
+  - [⚠️ 免责声明](#️-免责声明)
 
 ---
 
@@ -41,19 +47,19 @@
 
 | 客户端               | 推荐度  | GitHub 下载 | 备用下载 | 备注        |
 | ----------------- | ---- | --------- | ---- | --------- |
-| Clash for Windows | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选，界面友好 |
-| Clash MI          | ⭐⭐⭐  | 待补充       | 待补充  | 多协议支持     |
-| Clash Nyanpasu    | ⭐⭐⭐  | 待补充       | 待补充  | 界面现代      |
-| Clash Party       | ⭐⭐⭐  | 待补充       | 待补充  | 轻量客户端     |
-| Clash Verge       | ⭐⭐⭐⭐ | 待补充       | 待补充  | CFW 替代方案  |
-| Clash Verge Rev   | ⭐⭐⭐⭐ | 待补充       | 待补充  | 活跃维护版本    |
-| ClashN            | ⭐⭐   | 待补充       | 待补充  | 经典款       |
-| FClash            | ⭐⭐⭐  | 待补充       | 待补充  | 新项目       |
-| Hiddify           | ⭐⭐⭐⭐ | 待补充       | 待补充  | 全平台统一体验   |
-| Mihomo Party      | ⭐⭐⭐  | 待补充       | 待补充  | 新内核       |
-| NekoRay           | ⭐⭐⭐  | 待补充       | 待补充  | 技术向       |
-| v2rayN            | ⭐⭐⭐  | 待补充       | 待补充  | 老牌工具      |
-| WinXray           | ⭐⭐   | 待补充       | 待补充  | Xray 内核   |
+| Clash for Windows | ⭐⭐⭐⭐ | [备份](https://github.com/clash-download/Clash-for-Windows) | [高速下载](https://clash.download/clash-for-windows) | 新手首选，界面友好 |
+| Clash MI          | ⭐⭐⭐  | [官方](https://github.com/KaringX/clashmi/releases) | [高速下载](https://clashmi.com/download) | 多协议支持     |
+| Clash Nyanpasu    | ⭐⭐⭐  | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | [教程](https://github.com/clashbk/clash/wiki/clashx-meta) | 界面现代      |
+| Clash Party       | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://github.com/clashbk/clash/wiki/clash-party) | 轻量客户端     |
+| Clash Verge       | ⭐⭐⭐⭐ | [备份](https://github.com/zzzgydi/clash-verge/releases) | [高速下载](https://clash.download/clash-verge) | CFW 替代方案  |
+| Clash Verge Rev   | ⭐⭐⭐⭐ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [高速下载](https://clash.download/clash-verge) | 活跃维护版本    |
+| ClashN            | ⭐⭐   | [官方](https://github.com/2dust/clashN)      | -  | 经典款       |
+| FClash            | ⭐⭐⭐  | [官方](https://github.com/chen08209/FlClash/releases) | [高速下载](https://clash.download/flclash) | 新项目       |
+| Hiddify           | ⭐⭐⭐⭐ | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://github.com/clashbk/clash/wiki/hiddify-next) | 全平台统一体验   |
+| Mihomo Party      | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/mihomo-party/releases) | -  | 新内核       |
+| NekoRay           | ⭐⭐⭐  | [官方](https://github.com/Matsuridayo/nekoray)       | -  | 技术向       |
+| v2rayN            | ⭐⭐⭐  | [官方](https://github.com/2dust/v2rayN/releases) | [教程](https://github.com/clashbk/clash/wiki/v2rayn) | 老牌工具      |
+| WinXray           | ⭐⭐   | [官方](https://github.com/TheMRLL/winxray)       | -  | Xray 内核   |
 
 ---
 
@@ -63,21 +69,21 @@
 
 | 客户端             | 推荐度  | GitHub 下载 | 备用下载 | 备注         |
 | --------------- | ---- | --------- | ---- | ---------- |
-| ClashX Meta     | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选       |
-| ClashX          | ⭐⭐⭐  | 待补充       | 待补充  | 老牌 mac 客户端 |
-| ClashX Pro      | ⭐⭐⭐  | 待补充       | 待补充  | 增强版        |
-| Clash MI        | ⭐⭐⭐  | 待补充       | 待补充  | 多平台        |
-| Clash Nyanpasu  | ⭐⭐⭐  | 待补充       | 待补充  | UI 好看      |
-| Clash Party     | ⭐⭐⭐  | 待补充       | 待补充  | 轻量         |
-| Clash Verge     | ⭐⭐⭐⭐ | 待补充       | 待补充  | 推荐         |
-| Clash Verge Rev | ⭐⭐⭐⭐ | 待补充       | 待补充  | 强烈推荐       |
-| FClash          | ⭐⭐⭐  | 待补充       | 待补充  | 新项目        |
-| Hiddify         | ⭐⭐⭐⭐ | 待补充       | 待补充  | 简单好用       |
-| Mihomo Party    | ⭐⭐⭐  | 待补充       | 待补充  | 技术向        |
-| Quantumult X    | ⭐⭐⭐⭐ | 待补充       | 待补充  | 进阶用户       |
-| Shadowrocket    | ⭐⭐⭐⭐ | 待补充       | 待补充  | App Store  |
-| Surge           | ⭐⭐⭐⭐ | 待补充       | 待补充  | 高级玩家       |
-| v2rayN          | ⭐⭐⭐  | 待补充       | 待补充  | 通用工具       |
+| ClashX Meta     | ⭐⭐⭐⭐ | [官方](https://github.com/MetaCubeX/ClashX.Meta)     | -  | 新手首选       |
+| ClashX          | ⭐⭐⭐  | [备份](https://github.com/clash-download/ClashX) | [高速下载](https://clash.download/clashx) | 老牌 mac 客户端 |
+| ClashX Pro      | ⭐⭐⭐  | [备份](https://github.com/clash-download/ClashX-Pro) | [高速下载](https://clash.download/clashx) | 增强版        |
+| Clash MI        | ⭐⭐⭐  | [官方](https://github.com/KaringX/clashmi/releases) | [高速下载](https://clashmi.com/download) | 多平台        |
+| Clash Nyanpasu  | ⭐⭐⭐  | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | [教程](https://github.com/clashbk/clash/wiki/clashx-meta) | UI 好看      |
+| Clash Party     | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://github.com/clashbk/clash/wiki/clash-party) | 轻量         |
+| Clash Verge     | ⭐⭐⭐⭐ | [备份](https://github.com/zzzgydi/clash-verge/releases) | [高速下载](https://clash.download/clash-verge) | 推荐         |
+| Clash Verge Rev | ⭐⭐⭐⭐ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [高速下载](https://clash.download/clash-verge) | 强烈推荐       |
+| FClash          | ⭐⭐⭐  | [官方](https://github.com/chen08209/FlClash/releases) | [高速下载](https://clash.download/flclash) | 新项目        |
+| Hiddify         | ⭐⭐⭐⭐ | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://github.com/clashbk/clash/wiki/hiddify-next) | 简单好用       |
+| Mihomo Party    | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/mihomo-party/releases) | -  | 技术向        |
+| Quantumult X    | ⭐⭐⭐⭐ | [官方](https://github.com/crossutility/Quantumult-X)       | -  | 进阶用户       |
+| Shadowrocket    | ⭐⭐⭐⭐ | [官方](https://apps.apple.com/us/app/shadowrocket/id932747118)      | -  | App Store  |
+| Surge           | ⭐⭐⭐⭐ | [官方](https://nssurge.com/)       | -  | 高级玩家       |
+| v2rayN          | ⭐⭐⭐  | [官方](https://github.com/2dust/v2rayN/releases) | [教程](https://github.com/clashbk/clash/wiki/v2rayn) | 通用工具       |
 
 ---
 
@@ -87,16 +93,16 @@
 
 | 客户端             | 推荐度  | GitHub 下载 | 备用下载 | 备注      |
 | --------------- | ---- | --------- | ---- | ------- |
-| Clash MI        | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选    |
-| Clash Nyanpasu  | ⭐⭐⭐  | 待补充       | 待补充  | GUI 支持  |
-| Clash Party     | ⭐⭐⭐  | 待补充       | 待补充  | 轻量      |
-| Clash Verge     | ⭐⭐⭐⭐ | 待补充       | 待补充  | 推荐      |
-| Clash Verge Rev | ⭐⭐⭐⭐ | 待补充       | 待补充  | 活跃维护    |
-| FClash          | ⭐⭐⭐  | 待补充       | 待补充  | 新项目     |
-| Hiddify         | ⭐⭐⭐⭐ | 待补充       | 待补充  | 简单      |
-| Mihomo Party    | ⭐⭐⭐  | 待补充       | 待补充  | 技术向     |
-| v2rayN          | ⭐⭐⭐  | 待补充       | 待补充  | CLI/GUI |
-| sling-box       | ⭐⭐   | 待补充       | 待补充  | 高级用户    |
+| Clash MI        | ⭐⭐⭐⭐ | [官方](https://github.com/KaringX/clashmi/releases) | [高速下载](https://clashmi.com/download) | 新手首选    |
+| Clash Nyanpasu  | ⭐⭐⭐  | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | [教程](https://github.com/clashbk/clash/wiki/clashx-meta) | GUI 支持  |
+| Clash Party     | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://github.com/clashbk/clash/wiki/clash-party) | 轻量      |
+| Clash Verge     | ⭐⭐⭐⭐ | [备份](https://github.com/zzzgydi/clash-verge/releases) | [高速下载](https://clash.download/clash-verge) | 推荐      |
+| Clash Verge Rev | ⭐⭐⭐⭐ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [高速下载](https://clash.download/clash-verge) | 活跃维护    |
+| FClash          | ⭐⭐⭐  | [官方](https://github.com/chen08209/FlClash/releases) | [高速下载](https://clash.download/flclash) | 新项目     |
+| Hiddify         | ⭐⭐⭐⭐ | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://github.com/clashbk/clash/wiki/hiddify-next) | 简单      |
+| Mihomo Party    | ⭐⭐⭐  | [官方](https://github.com/mihomo-party-org/mihomo-party/releases) | -  | 技术向     |
+| v2rayN          | ⭐⭐⭐  | [官方](https://github.com/2dust/v2rayN/releases) | [教程](https://github.com/clashbk/clash/wiki/v2rayn) | CLI/GUI |
+| sing-box       | ⭐⭐   | [官方](https://github.com/SagerNet/sing-box)       | -  | 高级用户    |
 
 ---
 
@@ -106,16 +112,13 @@
 
 | 客户端                    | 推荐度  | GitHub 下载 | 备用下载 | 备注   |
 | ---------------------- | ---- | --------- | ---- | ---- |
-| Clash for Android      | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选 |
-| Clash Meta for Android | ⭐⭐⭐⭐ | 待补充       | 待补充  | 推荐   |
-| FClash                 | ⭐⭐⭐  | 待补充       | 待补充  | 新项目  |
-| Hiddify                | ⭐⭐⭐⭐ | 待补充       | 待补充  | 省心   |
-| NekoBox for Android    | ⭐⭐⭐⭐ | 待补充       | 待补充  | 强烈推荐 |
-| Potatso Lite           | ⭐⭐⭐  | 待补充       | 待补充  | 基础版  |
-| Quantumult             | ⭐⭐⭐  | 待补充       | 待补充  | 进阶   |
-| Shadowrocket           | ⭐⭐⭐⭐ | 待补充       | 待补充  | 老牌   |
-| sing-box               | ⭐⭐⭐  | 待补充       | 待补充  | 新内核  |
-| v2rayNG                | ⭐⭐⭐  | 待补充       | 待补充  | 老牌   |
+| Clash for Android      | ⭐⭐⭐⭐ | [备份](https://github.com/clash-download/Clash-for-Android) | [高速下载](https://clash.download/clash-for-android) | 新手首选 |
+| Clash Meta for Android | ⭐⭐⭐⭐ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [高速下载](https://clash.download/clash-meta-for-android) | 推荐   |
+| FClash                 | ⭐⭐⭐  | [官方](https://github.com/chen08209/FlClash/releases) | [高速下载](https://clash.download/flclash) | 新项目  |
+| Hiddify                | ⭐⭐⭐⭐ | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://github.com/clashbk/clash/wiki/hiddify-next) | 省心   |
+| NekoBox for Android    | ⭐⭐⭐⭐ | [官方](https://github.com/MatsuriDayo/NekoBoxForAndroid)       | -  | 强烈推荐 |
+| sing-box               | ⭐⭐⭐  | [官方](https://github.com/SagerNet/sing-box/releases) | [教程](https://github.com/clashbk/clash/wiki/sing-box) | 新内核  |
+| v2rayNG                | ⭐⭐⭐  | [官方](https://github.com/2dust/v2rayNG/releases) | -  | 老牌   |
 
 ---
 
@@ -125,12 +128,11 @@
 
 | 客户端          | 推荐度  | GitHub 下载 | 备用下载 | 备注   |
 | ------------ | ---- | --------- | ---- | ---- |
-| Shadowrocket | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选 |
-| Quantumult X | ⭐⭐⭐⭐ | 待补充       | 待补充  | 功能强  |
-| Surge        | ⭐⭐⭐⭐ | 待补充       | 待补充  | 高级用户 |
-| Potatso Lite | ⭐⭐⭐  | 待补充       | 待补充  | 轻量   |
-| Stash        | ⭐⭐⭐  | 待补充       | 待补充  | 新势力  |
-| sing-box     | ⭐⭐⭐  | 待补充       | 待补充  | 技术向  |
+| Shadowrocket | ⭐⭐⭐⭐ | [商店](https://apps.apple.com/us/app/shadowrocket/id932747118) | [教程](https://github.com/clashbk/clash/wiki/shadowrocket) | 新手首选 |
+| Quantumult X | ⭐⭐⭐⭐ |   [商店](https://apps.apple.com/us/app/quantumult-x/id1443988620)     | -  | 功能强  |
+| Surge        | ⭐⭐⭐⭐ | [商店](https://apps.apple.com/us/app/surge-5/id1442620678) | [教程](https://github.com/clashbk/clash/wiki/surge) | 高级用户 |
+| Stash        | ⭐⭐⭐  | [官方](https://stash.ws/)      | -  | 新势力  |
+| sing-box     | ⭐⭐⭐  | [官方](https://github.com/SagerNet/sing-box/releases) | [教程](https://github.com/clashbk/clash/wiki/sing-box) | 技术向  |
 
 ---
 
@@ -140,15 +142,11 @@
 
 | 客户端                | 推荐度  | GitHub 下载 | 备用下载 | 备注      |
 | ------------------ | ---- | --------- | ---- | ------- |
-| OpenClash          | ⭐⭐⭐⭐ | 待补充       | 待补充  | 新手首选    |
-| PassWall2          | ⭐⭐⭐⭐ | 待补充       | 待补充  | OpenWRT |
-| shadowSocksR Plus+ | ⭐⭐⭐  | 待补充       | 待补充  | 老牌插件    |
-| sing-box           | ⭐⭐⭐  | 待补充       | 待补充  | 新内核     |
-| Surfboard          | ⭐⭐   | 待补充       | 待补充  | 小众      |
+| OpenClash          | ⭐⭐⭐⭐ | [官方](https://github.com/vernesong/openclash)       | -  | 新手首选    |
+| PassWall2          | ⭐⭐⭐⭐ | [官方](https://github.com/Openwrt-Passwall/openwrt-passwall2)       | -  | OpenWRT |
+| sing-box           | ⭐⭐⭐  | [官方](https://github.com/SagerNet/sing-box/releases) | [教程](https://github.com/clashbk/clash/wiki/sing-box) | 新内核     |
+| Surfboard          | ⭐⭐   | [官方](https://github.com/getsurfboard/surfboard)       | -  | 小众      |
 
----
-
----
 
 ## 🧠 使用建议（新手必看）
 
