@@ -175,5 +175,5 @@ iOS 机场客户端主要通过 App Store 或官网获取，常见选择包括 S
 
 ---
 
-如果这个机场客户端汇总对你有帮助，欢迎点个 **Star ⭐**。  
+如果这个机场客户端汇总对你有帮助，欢迎点个 **Star ⭐** 
 后续会继续补充更多 Clash、Mihomo、sing-box、v2rayN、iOS 和 OpenWRT 客户端下载地址。
