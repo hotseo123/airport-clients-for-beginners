@@ -16,7 +16,7 @@
 - 用过旧版 Clash for Windows、ClashX，想换到 Clash Verge Rev、FlClash、Hiddify 等替代客户端  
 - 想提前准备备用客户端，避免官网、仓库或下载入口临时不可用  
 
-❌ 本仓库 **不提供机场、不售卖订阅、不提供节点、不放配置文件**
+> <span style="color:red;">本仓库**不提供机场、不售卖订阅、不提供节点、不放配置文件**</span>
 
 ## 📚 目录
 
