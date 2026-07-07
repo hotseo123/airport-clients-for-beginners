@@ -2,7 +2,7 @@
 
 > 为新手整理的 **机场客户端推荐、下载地址与使用入口汇总**，覆盖 **Windows / macOS / iOS / Android / Linux / 路由器 / 软路由**。
 
-本仓库收录 Clash、Clash Meta、Mihomo、v2rayN、sing-box、Shadowrocket、Quantumult X、Surge、OpenClash 等常见代理客户端，方便你快速找到对应平台的官方 GitHub、App Store、官网或备用下载地址。
+本仓库收录Clash、Clash Meta、Mihomo、v2rayN、sing-box、Shadowrocket、Quantumult X、Surge、OpenClash等常见代理客户端，方便你快速找到对应平台的官方GitHub、App Store、官网或备用下载地址。
 
 > ⭐ **新手只看 ⭐⭐⭐⭐ 以上即可**  
 > 👉 **如果你是第一次使用机场客户端，每个平台优先选择第一行**
@@ -27,7 +27,7 @@
 - [iOS 客户端](#-ios-客户端)
 - [路由器 / 软路由](#-路由器--软路由)
 - [新手选择建议](#-新手选择建议)
-- [免责声明](#️-免责声明)
+- [免责声明](#-免责声明)
 
 ## 📌 使用说明
 
@@ -132,7 +132,6 @@ iOS 机场客户端主要通过 App Store 或官网获取，常见选择包括 S
 | PassWall2          | ⭐⭐⭐⭐ | [官方](https://github.com/Openwrt-Passwall/openwrt-passwall2)       | -  | OpenWRT |
 | sing-box           | ⭐⭐⭐  | [官方](https://github.com/SagerNet/sing-box) | [教程](https://github.com/clashbk/clash/wiki/sing-box) | 新内核     |
 | Surfboard          | ⭐⭐   | [官方](https://github.com/getsurfboard/surfboard)       | -  | 小众      |
-
 
 ## 🧠 新手选择建议
 
