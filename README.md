@@ -122,7 +122,7 @@ iOS 机场客户端主要通过 App Store 或官网获取，常见选择包括 S
 | Stash        | ⭐⭐⭐  | [官方](https://stash.ws/)      | -  | 新势力  |
 | sing-box     | ⭐⭐⭐  | [官方](https://github.com/SagerNet/sing-box) | [教程](https://github.com/clashbk/clash/wiki/sing-box) | 技术向  |
 
-## 🌐 路由器 / 软路由
+## 🌐 路由器/软路由
 
 路由器和软路由客户端主要面向 OpenWRT、旁路由和家庭网关场景，常见选择包括 OpenClash、PassWall2、sing-box、Surfboard 等。
 
