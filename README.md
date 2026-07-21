@@ -39,7 +39,7 @@
 
 ## 🪟 Windows 客户端
 
-Windows 机场客户端常见选择包括 Clash Verge Rev、Clash for Windows、v2rayN、FlClash、Hiddify、NekoRay 等。新手建议优先选择仍在维护、界面清晰、导入订阅方便的客户端。
+Windows 机场客户端常见选择包括 Clash Verge Rev、Clash for Windows、v2rayN、FlClash、Hiddify、NekoRay等。新手建议优先选择仍在维护、界面清晰、导入订阅方便的客户端。
 
 | 客户端               | 推荐度  | GitHub 下载 | 备用下载 | 备注        |
 | ----------------- | ---- | --------- | ---- | --------- |
@@ -142,6 +142,7 @@ iOS 机场客户端主要通过 App Store 或官网获取，常见选择包括 S
 - Linux 用户：优先看 **Clash Verge Rev / FlClash / sing-box**
 - 软路由用户：优先看 **OpenClash / PassWall2 / sing-box**
 - 日常使用建议只固定一个主力客户端，再准备一个备用客户端
+- 优先使用官方推荐的订阅转换工具，谨慎使用三方订阅转换工具
 
 ## ⚠️ 免责声明
 
