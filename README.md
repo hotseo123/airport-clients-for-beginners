@@ -12,9 +12,9 @@
 
 ## 📌 这个仓库适合谁？
 
-- 第一次使用机场、订阅链接或代理客户端，不知道选 Clash 还是 v2rayN  
+- 第一次使用机场、订阅链接或代理客户端，不知道选Clash还是v2rayN  
 - 想找 Windows、macOS、Android、iOS、Linux、OpenWRT 的客户端下载地址  
-- 用过旧版 Clash for Windows、ClashX，想换到 Clash Verge Rev、FlClash、Hiddify 等替代客户端  
+- 用过旧版 Clash for Windows、ClashX，想换到 Clash Verge Rev、FlClash、Hiddify等替代客户端  
 - 想提前准备备用客户端，避免官网、仓库或下载入口临时不可用  
 
 > <span style="color:red;">本仓库**不提供机场、不售卖订阅、不提供节点、不放配置文件**</span>
@@ -151,7 +151,7 @@ iOS 机场客户端主要通过 App Store 或官网获取，常见选择包括 S
 本仓库不提供任何机场订阅、账号、节点、配置文件或付费服务，也不对第三方链接的可用性、安全性和内容负责。  
 请在遵守当地法律法规以及相关软件开源协议的前提下使用。
 
----
+⭐ 如果这个仓库有帮到你，辛苦点个Star
 
 如果这个机场客户端汇总对你有帮助，欢迎点个 **Star ⭐** 
 后续会继续补充更多 Clash、Mihomo、sing-box、v2rayN、iOS 和 OpenWRT 客户端下载地址。
