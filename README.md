@@ -5,7 +5,7 @@
 本仓库收录Clash、Clash Meta、Mihomo、v2rayN、sing-box、Shadowrocket、Quantumult X、Surge、OpenClash等常见代理客户端，方便你快速找到对应平台的官方GitHub、App Store、官网或备用下载地址。
 
 > ⭐ **新手只看 ⭐⭐⭐⭐ 以上即可**  
-> 👉 **如果你是第一次使用机场客户端，每个平台优先选择第一行**
+> 👉 **如果你是第一次使用机场客户端，每个平台优先选择第一行**  
 > 📆 **本仓库会持续更新，当前更新至8月**
 
 ## 📌 这个仓库适合谁？
